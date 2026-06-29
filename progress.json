@@ -1,1 +1,6 @@
-
+{
+    "current_day": 0,
+    "total_days": 365,
+    "current_topic": "Not Started",
+    "last_release": null
+}
