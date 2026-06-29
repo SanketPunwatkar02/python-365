@@ -10,7 +10,10 @@ This script should be called after each lesson is published.
 from __future__ import annotations
 
 from pathlib import Path
-
+from scripts.progress import load_progress
+from scripts.build_index import save_index
+from scripts.update_readme import save_readme
+from scripts.utils import ensure_directory
 from progress import load_progress
 from utils import progress_bar, percentage
 
