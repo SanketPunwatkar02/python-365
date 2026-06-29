@@ -1,24 +1,18 @@
 """
 update_readme.py
 
-Automatically regenerates the repository README based on the current
-learning progress.
-
-This script should be called after each lesson is published.
+Automatically regenerates the repository README
+based on the current learning progress.
 """
 
 from __future__ import annotations
 
 from pathlib import Path
+
 from scripts.progress import load_progress
-from scripts.build_index import save_index
-from scripts.update_readme import save_readme
-from scripts.utils import ensure_directory
-from progress import load_progress
-from utils import progress_bar, percentage
+from scripts.utils import progress_bar, percentage
 
 ROOT = Path(__file__).resolve().parent.parent
-
 README_FILE = ROOT / "README.md"
 
 
@@ -37,40 +31,44 @@ MODULES = [
 
 def current_module(day: int) -> str:
     """Return the current learning module."""
-
     for start, end, name in MODULES:
         if start <= day <= end:
             return name
-
     return "🚀 Getting Started"
 
 
 def build_readme() -> str:
-    """Generate README markdown."""
+    """Generate README.md content."""
 
     progress = load_progress()
 
     current_day = progress["current_day"]
     total_days = progress["total_days"]
+    topic = progress["current_topic"]
+    last_release = progress["last_release"] or "Not yet"
 
-    bar = progress_bar(current_day, total_days, 20)
     percent = percentage(current_day, total_days)
+    bar = progress_bar(current_day, total_days, 20)
 
     module = current_module(current_day)
 
     return f"""# 🐍 Python 365
 
-> Learn Python from beginner to advanced through one lesson every day.
+> A complete **365-day Python learning journey** powered by GitHub Actions.
 
 ---
 
-## 🎯 Project Goal
+## 🎯 Goal
 
-Python 365 is a self-publishing learning platform that automatically
-releases one Python lesson every day using GitHub Actions.
+Learn Python from beginner to advanced by publishing one lesson every day.
 
-The objective is to build Python skills consistently while maintaining
-a professional GitHub repository.
+This repository automatically:
+
+- Generates lesson content
+- Publishes one lesson daily
+- Updates progress
+- Rebuilds documentation
+- Maintains a consistent GitHub contribution history
 
 ---
 
@@ -80,5 +78,3 @@ a professional GitHub repository.
 
 ```text
 {bar}
-
-{percent:.2f}% Complete
