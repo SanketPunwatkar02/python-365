@@ -3,60 +3,103 @@ generate_lessons.py
 
 Generate the complete 365-day lesson structure for Python 365.
 
-This script creates the entire course skeleton inside the `content/`
-directory. Each lesson includes a consistent set of Markdown and Python
-files that can later be filled with real educational content.
+Creates lesson folders inside the content directory using
+information from syllabus.json.
 
 Run:
-
-    python scripts/generate_lessons.py
+    python -m scripts.generate_lessons
 """
-from scripts.progress import load_progress
-from scripts.build_index import save_index
-from scripts.update_readme import save_readme
-from scripts.utils import ensure_directory
+
 from __future__ import annotations
 
+import json
 from pathlib import Path
 
-from utils import ensure_directory, write_text, day_folder
+from scripts.utils import (
+    day_folder,
+    ensure_directory,
+    write_text,
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 
 CONTENT_DIR = ROOT / "content"
+SYLLABUS_FILE = CONTENT_DIR / "syllabus.json"
 
 TOTAL_DAYS = 365
 
 
-def create_readme(day: int) -> str:
-    return f"""# Day {day:03d}
+def load_syllabus() -> list[dict]:
+    """Load syllabus.json."""
 
-# Title
+    if not SYLLABUS_FILE.exists():
+        raise FileNotFoundError(
+            f"Missing syllabus file: {SYLLABUS_FILE}"
+        )
 
-> Replace with today's topic.
+    with SYLLABUS_FILE.open("r", encoding="utf-8") as file:
+        return json.load(file)
+
+
+def create_readme(day: int, title: str) -> str:
+    return f"""# 🐍 Day {day:03d} - {title}
+
+> Python 365 Daily Lesson
 
 ---
 
-## Learning Objectives
+## 🎯 Learning Objectives
 
-- Understand ...
-- Learn ...
-- Practice ...
+- Understand today's topic
+- Learn through examples
+- Complete the exercise
+- Test yourself with the quiz
 
 ---
 
-Estimated Time: 20-30 minutes
+## 📚 Lesson Files
 
-Difficulty: ⭐☆☆☆☆
+| File | Purpose |
+|------|---------|
+| lesson.md | Theory |
+| example.py | Example program |
+| exercise.py | Practice problems |
+| solution.py | Reference solution |
+| quiz.md | Self assessment |
+| notes.md | Additional notes |
+
+---
+
+## Estimated Time
+
+20–30 minutes
+
+## Difficulty
+
+⭐☆☆☆☆
 """
 
 
-def create_lesson() -> str:
-    return """# Lesson
+def create_lesson(title: str) -> str:
+    return f"""# {title}
 
-Write the theory for today's lesson here.
+## Introduction
 
-Explain concepts with examples and diagrams if needed.
+Write today's lesson here.
+
+---
+
+## Explanation
+
+Explain the topic with examples.
+
+---
+
+## Key Points
+
+- Point 1
+- Point 2
+- Point 3
 """
 
 
@@ -64,6 +107,7 @@ def create_example() -> str:
     return '''"""
 Example Program
 """
+
 
 def main():
     print("Hello from Python 365!")
@@ -78,10 +122,10 @@ def create_exercise() -> str:
     return '''"""
 Exercise
 
-Write your solution below.
+Complete the task below.
 """
 
-# TODO: Solve the exercise.
+# TODO: Write your solution here.
 '''
 
 
@@ -90,7 +134,7 @@ def create_solution() -> str:
 Reference Solution
 """
 
-# TODO: Add the reference solution.
+# TODO: Add solution.
 '''
 
 
@@ -103,7 +147,9 @@ def create_quiz() -> str:
 
 3. Question 3
 
-Answers:
+---
+
+## Answers
 
 -
 -
@@ -114,28 +160,40 @@ Answers:
 def create_notes() -> str:
     return """# Notes
 
-Important points
+## Important Points
 
-- ...
+-
 
-Common mistakes
+-
 
-- ...
+-
 
-Tips
+## Common Mistakes
 
-- ...
+-
+
+-
+
+-
+
+## Tips
+
+-
+
+-
+
+-
 """
 
 
-def generate_day(day: int) -> None:
+def generate_day(day: int, title: str) -> None:
     folder = CONTENT_DIR / day_folder(day)
 
     ensure_directory(folder)
 
     files = {
-        "README.md": create_readme(day),
-        "lesson.md": create_lesson(),
+        "README.md": create_readme(day, title),
+        "lesson.md": create_lesson(title),
         "example.py": create_example(),
         "exercise.py": create_exercise(),
         "solution.py": create_solution(),
@@ -144,21 +202,38 @@ def generate_day(day: int) -> None:
     }
 
     for filename, content in files.items():
-        path = folder / filename
+        file_path = folder / filename
 
-        if not path.exists():
-            write_text(path, content)
+        if not file_path.exists():
+            write_text(file_path, content)
 
 
 def main() -> None:
+
     ensure_directory(CONTENT_DIR)
 
-    print(f"Generating {TOTAL_DAYS} lesson templates...\n")
+    syllabus = load_syllabus()
 
-    for day in range(1, TOTAL_DAYS + 1):
-        generate_day(day)
+    print("====================================")
+    print("Generating Python 365 lesson files...")
+    print("====================================")
 
-    print(f"Successfully generated {TOTAL_DAYS} lesson folders.")
+    created = 0
+
+    for lesson in syllabus:
+
+        day = lesson["day"]
+        title = lesson["title"]
+
+        generate_day(day, title)
+
+        created += 1
+
+        print(f"✓ Day {day:03d} - {title}")
+
+    print("\n====================================")
+    print(f"Successfully generated {created} lesson folders.")
+    print("====================================")
 
 
 if __name__ == "__main__":
