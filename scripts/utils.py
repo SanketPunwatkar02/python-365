@@ -11,7 +11,10 @@ import shutil
 from datetime import datetime
 from pathlib import Path
 from typing import Any
-
+from scripts.progress import load_progress
+from scripts.build_index import save_index
+from scripts.update_readme import save_readme
+from scripts.utils import ensure_directory
 
 def ensure_directory(path: Path) -> None:
     """Create a directory if it doesn't already exist."""
