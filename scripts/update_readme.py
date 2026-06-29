@@ -1,20 +1,14 @@
-"""
-update_readme.py
-
-Automatically regenerates the repository README
-based on the current learning progress.
-"""
+"""Generate the project README from the current progress state."""
 
 from __future__ import annotations
 
 from pathlib import Path
 
 from scripts.progress import load_progress
-from scripts.utils import progress_bar, percentage
+from scripts.utils import percentage, progress_bar
 
 ROOT = Path(__file__).resolve().parent.parent
 README_FILE = ROOT / "README.md"
-
 
 MODULES = [
     (1, 30, "🐍 Python Fundamentals"),
@@ -30,51 +24,70 @@ MODULES = [
 
 
 def current_module(day: int) -> str:
-    """Return the current learning module."""
-    for start, end, name in MODULES:
+    for start, end, module_name in MODULES:
         if start <= day <= end:
-            return name
+            return module_name
     return "🚀 Getting Started"
 
 
 def build_readme() -> str:
-    """Generate README.md content."""
-
     progress = load_progress()
 
     current_day = progress["current_day"]
     total_days = progress["total_days"]
-    topic = progress["current_topic"]
+    current_topic = progress["current_topic"]
     last_release = progress["last_release"] or "Not yet"
 
-    percent = percentage(current_day, total_days)
-    bar = progress_bar(current_day, total_days, 20)
-
+    progress_percent = percentage(current_day, total_days)
+    bar = progress_bar(current_day, total_days, 30)
     module = current_module(current_day)
 
     return f"""# 🐍 Python 365
 
-> A complete **365-day Python learning journey** powered by GitHub Actions.
+> Learn Python in 365 days with automated daily publishing.
 
----
-
-## 🎯 Goal
-
-Learn Python from beginner to advanced by publishing one lesson every day.
-
-This repository automatically:
-
-- Generates lesson content
-- Publishes one lesson daily
-- Updates progress
-- Rebuilds documentation
-- Maintains a consistent GitHub contribution history
-
----
-
-## 📈 Progress
+## Progress
 
 **Day {current_day} / {total_days}**
 
 ```text
 {bar}
+```
+
+**Completion:** {progress_percent}%
+
+## Current Module
+
+{module}
+
+## Current Topic
+
+{current_topic}
+
+## Last Release
+
+{last_release}
+
+## Overview
+
+This repository tracks a full year of Python practice, with each day building on the last.
+
+### What the automation updates
+
+- the next lesson content
+- the progress record
+- this README
+- the published lesson index
+
+"""
+
+
+def save_readme() -> None:
+    README_FILE.write_text(build_readme(), encoding="utf-8")
+
+
+def main() -> None:
+    save_readme()
+
+
+if __name__ == "__main__":    main()
