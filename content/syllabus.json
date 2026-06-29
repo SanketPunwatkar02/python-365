@@ -8,5 +8,1820 @@
     "day": 2,
     "title": "Input and Output",
     "module": "Python Fundamentals"
+  },
+  {
+    "day": 3,
+    "title": "Comments and Code Style",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 4,
+    "title": "Operators",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 5,
+    "title": "Type Conversion",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 6,
+    "title": "Strings",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 7,
+    "title": "String Methods",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 8,
+    "title": "Formatting Strings",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 9,
+    "title": "Numbers",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 10,
+    "title": "Booleans",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 11,
+    "title": "if Statements",
+    "module": "Control Flow"
+  },
+  {
+    "day": 12,
+    "title": "if-else",
+    "module": "Control Flow"
+  },
+  {
+    "day": 13,
+    "title": "Nested if",
+    "module": "Control Flow"
+  },
+  {
+    "day": 14,
+    "title": "Match Case",
+    "module": "Control Flow"
+  },
+  {
+    "day": 15,
+    "title": "For Loop",
+    "module": "Control Flow"
+  },
+  {
+    "day": 16,
+    "title": "While Loop",
+    "module": "Control Flow"
+  },
+  {
+    "day": 17,
+    "title": "Break and Continue",
+    "module": "Control Flow"
+  },
+  {
+    "day": 18,
+    "title": "Range Function",
+    "module": "Control Flow"
+  },
+  {
+    "day": 19,
+    "title": "Pass Statement",
+    "module": "Control Flow"
+  },
+  {
+    "day": 20,
+    "title": "Mini Project",
+    "module": "Control Flow"
+  },
+  {
+    "day": 21,
+    "title": "Functions",
+    "module": "Functions"
+  },
+  {
+    "day": 22,
+    "title": "Arguments",
+    "module": "Functions"
+  },
+  {
+    "day": 23,
+    "title": "Keyword Arguments",
+    "module": "Functions"
+  },
+  {
+    "day": 24,
+    "title": "Return Values",
+    "module": "Functions"
+  },
+  {
+    "day": 25,
+    "title": "Lambda Functions",
+    "module": "Functions"
+  },
+  {
+    "day": 26,
+    "title": "Recursion",
+    "module": "Functions"
+  },
+  {
+    "day": 27,
+    "title": "Variable Scope",
+    "module": "Functions"
+  },
+  {
+    "day": 28,
+    "title": "Docstrings",
+    "module": "Functions"
+  },
+  {
+    "day": 29,
+    "title": "Modules",
+    "module": "Functions"
+  },
+  {
+    "day": 30,
+    "title": "Packages",
+    "module": "Functions"
+  },
+  {
+    "day": 31,
+    "title": "Lists",
+    "module": "Collections"
+  },
+  {
+    "day": 32,
+    "title": "List Methods",
+    "module": "Collections"
+  },
+  {
+    "day": 33,
+    "title": "Tuples",
+    "module": "Collections"
+  },
+  {
+    "day": 34,
+    "title": "Sets",
+    "module": "Collections"
+  },
+  {
+    "day": 35,
+    "title": "Dictionaries",
+    "module": "Collections"
+  },
+  {
+    "day": 36,
+    "title": "Dictionary Methods",
+    "module": "Collections"
+  },
+  {
+    "day": 37,
+    "title": "Comprehensions",
+    "module": "Collections"
+  },
+  {
+    "day": 38,
+    "title": "Nested Collections",
+    "module": "Collections"
+  },
+  {
+    "day": 39,
+    "title": "Sorting",
+    "module": "Collections"
+  },
+  {
+    "day": 40,
+    "title": "Searching",
+    "module": "Collections"
+  },
+  {
+    "day": 41,
+    "title": "Reading Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 42,
+    "title": "Writing Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 43,
+    "title": "CSV Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 44,
+    "title": "JSON Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 45,
+    "title": "Pathlib",
+    "module": "File Handling"
+  },
+  {
+    "day": 46,
+    "title": "Exception Handling",
+    "module": "File Handling"
+  },
+  {
+    "day": 47,
+    "title": "Custom Exceptions",
+    "module": "File Handling"
+  },
+  {
+    "day": 48,
+    "title": "Logging",
+    "module": "File Handling"
+  },
+  {
+    "day": 49,
+    "title": "Configuration Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 50,
+    "title": "Mini Project",
+    "module": "File Handling"
+  },
+  {
+    "day": 51,
+    "title": "Classes",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 52,
+    "title": "Objects",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 53,
+    "title": "Constructors",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 54,
+    "title": "Methods",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 55,
+    "title": "Inheritance",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 56,
+    "title": "Polymorphism",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 57,
+    "title": "Encapsulation",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 58,
+    "title": "Abstraction",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 59,
+    "title": "Magic Methods",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 60,
+    "title": "Dataclasses",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 61,
+    "title": "Decorators",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 62,
+    "title": "Generators",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 63,
+    "title": "Iterators",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 64,
+    "title": "Context Managers",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 65,
+    "title": "Virtual Environments",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 66,
+    "title": "Typing",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 67,
+    "title": "Enums",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 68,
+    "title": "Collections Module",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 69,
+    "title": "Functools",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 70,
+    "title": "itertools",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 71,
+    "title": "datetime",
+    "module": "Standard Library"
+  },
+  {
+    "day": 72,
+    "title": "math",
+    "module": "Standard Library"
+  },
+  {
+    "day": 73,
+    "title": "random",
+    "module": "Standard Library"
+  },
+  {
+    "day": 74,
+    "title": "os",
+    "module": "Standard Library"
+  },
+  {
+    "day": 75,
+    "title": "sys",
+    "module": "Standard Library"
+  },
+  {
+    "day": 76,
+    "title": "subprocess",
+    "module": "Standard Library"
+  },
+  {
+    "day": 77,
+    "title": "shutil",
+    "module": "Standard Library"
+  },
+  {
+    "day": 78,
+    "title": "argparse",
+    "module": "Standard Library"
+  },
+  {
+    "day": 79,
+    "title": "sqlite3",
+    "module": "Standard Library"
+  },
+  {
+    "day": 80,
+    "title": "urllib",
+    "module": "Standard Library"
+  },
+  {
+    "day": 81,
+    "title": "Calculator",
+    "module": "Projects"
+  },
+  {
+    "day": 82,
+    "title": "Password Generator",
+    "module": "Projects"
+  },
+  {
+    "day": 83,
+    "title": "Number Guessing Game",
+    "module": "Projects"
+  },
+  {
+    "day": 84,
+    "title": "To-Do App",
+    "module": "Projects"
+  },
+  {
+    "day": 85,
+    "title": "Expense Tracker",
+    "module": "Projects"
+  },
+  {
+    "day": 86,
+    "title": "Weather App",
+    "module": "Projects"
+  },
+  {
+    "day": 87,
+    "title": "Web Scraper",
+    "module": "Projects"
+  },
+  {
+    "day": 88,
+    "title": "REST API Client",
+    "module": "Projects"
+  },
+  {
+    "day": 89,
+    "title": "Portfolio Project",
+    "module": "Projects"
+  },
+  {
+    "day": 90,
+    "title": "Final Project",
+    "module": "Projects"
+  },
+  {
+    "day": 91,
+    "title": "Variables and Data Types",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 92,
+    "title": "Input and Output",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 93,
+    "title": "Comments and Code Style",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 94,
+    "title": "Operators",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 95,
+    "title": "Type Conversion",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 96,
+    "title": "Strings",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 97,
+    "title": "String Methods",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 98,
+    "title": "Formatting Strings",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 99,
+    "title": "Numbers",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 100,
+    "title": "Booleans",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 101,
+    "title": "if Statements",
+    "module": "Control Flow"
+  },
+  {
+    "day": 102,
+    "title": "if-else",
+    "module": "Control Flow"
+  },
+  {
+    "day": 103,
+    "title": "Nested if",
+    "module": "Control Flow"
+  },
+  {
+    "day": 104,
+    "title": "Match Case",
+    "module": "Control Flow"
+  },
+  {
+    "day": 105,
+    "title": "For Loop",
+    "module": "Control Flow"
+  },
+  {
+    "day": 106,
+    "title": "While Loop",
+    "module": "Control Flow"
+  },
+  {
+    "day": 107,
+    "title": "Break and Continue",
+    "module": "Control Flow"
+  },
+  {
+    "day": 108,
+    "title": "Range Function",
+    "module": "Control Flow"
+  },
+  {
+    "day": 109,
+    "title": "Pass Statement",
+    "module": "Control Flow"
+  },
+  {
+    "day": 110,
+    "title": "Mini Project",
+    "module": "Control Flow"
+  },
+  {
+    "day": 111,
+    "title": "Functions",
+    "module": "Functions"
+  },
+  {
+    "day": 112,
+    "title": "Arguments",
+    "module": "Functions"
+  },
+  {
+    "day": 113,
+    "title": "Keyword Arguments",
+    "module": "Functions"
+  },
+  {
+    "day": 114,
+    "title": "Return Values",
+    "module": "Functions"
+  },
+  {
+    "day": 115,
+    "title": "Lambda Functions",
+    "module": "Functions"
+  },
+  {
+    "day": 116,
+    "title": "Recursion",
+    "module": "Functions"
+  },
+  {
+    "day": 117,
+    "title": "Variable Scope",
+    "module": "Functions"
+  },
+  {
+    "day": 118,
+    "title": "Docstrings",
+    "module": "Functions"
+  },
+  {
+    "day": 119,
+    "title": "Modules",
+    "module": "Functions"
+  },
+  {
+    "day": 120,
+    "title": "Packages",
+    "module": "Functions"
+  },
+  {
+    "day": 121,
+    "title": "Lists",
+    "module": "Collections"
+  },
+  {
+    "day": 122,
+    "title": "List Methods",
+    "module": "Collections"
+  },
+  {
+    "day": 123,
+    "title": "Tuples",
+    "module": "Collections"
+  },
+  {
+    "day": 124,
+    "title": "Sets",
+    "module": "Collections"
+  },
+  {
+    "day": 125,
+    "title": "Dictionaries",
+    "module": "Collections"
+  },
+  {
+    "day": 126,
+    "title": "Dictionary Methods",
+    "module": "Collections"
+  },
+  {
+    "day": 127,
+    "title": "Comprehensions",
+    "module": "Collections"
+  },
+  {
+    "day": 128,
+    "title": "Nested Collections",
+    "module": "Collections"
+  },
+  {
+    "day": 129,
+    "title": "Sorting",
+    "module": "Collections"
+  },
+  {
+    "day": 130,
+    "title": "Searching",
+    "module": "Collections"
+  },
+  {
+    "day": 131,
+    "title": "Reading Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 132,
+    "title": "Writing Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 133,
+    "title": "CSV Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 134,
+    "title": "JSON Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 135,
+    "title": "Pathlib",
+    "module": "File Handling"
+  },
+  {
+    "day": 136,
+    "title": "Exception Handling",
+    "module": "File Handling"
+  },
+  {
+    "day": 137,
+    "title": "Custom Exceptions",
+    "module": "File Handling"
+  },
+  {
+    "day": 138,
+    "title": "Logging",
+    "module": "File Handling"
+  },
+  {
+    "day": 139,
+    "title": "Configuration Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 140,
+    "title": "Mini Project",
+    "module": "File Handling"
+  },
+  {
+    "day": 141,
+    "title": "Classes",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 142,
+    "title": "Objects",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 143,
+    "title": "Constructors",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 144,
+    "title": "Methods",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 145,
+    "title": "Inheritance",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 146,
+    "title": "Polymorphism",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 147,
+    "title": "Encapsulation",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 148,
+    "title": "Abstraction",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 149,
+    "title": "Magic Methods",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 150,
+    "title": "Dataclasses",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 151,
+    "title": "Decorators",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 152,
+    "title": "Generators",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 153,
+    "title": "Iterators",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 154,
+    "title": "Context Managers",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 155,
+    "title": "Virtual Environments",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 156,
+    "title": "Typing",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 157,
+    "title": "Enums",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 158,
+    "title": "Collections Module",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 159,
+    "title": "Functools",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 160,
+    "title": "itertools",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 161,
+    "title": "datetime",
+    "module": "Standard Library"
+  },
+  {
+    "day": 162,
+    "title": "math",
+    "module": "Standard Library"
+  },
+  {
+    "day": 163,
+    "title": "random",
+    "module": "Standard Library"
+  },
+  {
+    "day": 164,
+    "title": "os",
+    "module": "Standard Library"
+  },
+  {
+    "day": 165,
+    "title": "sys",
+    "module": "Standard Library"
+  },
+  {
+    "day": 166,
+    "title": "subprocess",
+    "module": "Standard Library"
+  },
+  {
+    "day": 167,
+    "title": "shutil",
+    "module": "Standard Library"
+  },
+  {
+    "day": 168,
+    "title": "argparse",
+    "module": "Standard Library"
+  },
+  {
+    "day": 169,
+    "title": "sqlite3",
+    "module": "Standard Library"
+  },
+  {
+    "day": 170,
+    "title": "urllib",
+    "module": "Standard Library"
+  },
+  {
+    "day": 171,
+    "title": "Calculator",
+    "module": "Projects"
+  },
+  {
+    "day": 172,
+    "title": "Password Generator",
+    "module": "Projects"
+  },
+  {
+    "day": 173,
+    "title": "Number Guessing Game",
+    "module": "Projects"
+  },
+  {
+    "day": 174,
+    "title": "To-Do App",
+    "module": "Projects"
+  },
+  {
+    "day": 175,
+    "title": "Expense Tracker",
+    "module": "Projects"
+  },
+  {
+    "day": 176,
+    "title": "Weather App",
+    "module": "Projects"
+  },
+  {
+    "day": 177,
+    "title": "Web Scraper",
+    "module": "Projects"
+  },
+  {
+    "day": 178,
+    "title": "REST API Client",
+    "module": "Projects"
+  },
+  {
+    "day": 179,
+    "title": "Portfolio Project",
+    "module": "Projects"
+  },
+  {
+    "day": 180,
+    "title": "Final Project",
+    "module": "Projects"
+  },
+  {
+    "day": 181,
+    "title": "Variables and Data Types",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 182,
+    "title": "Input and Output",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 183,
+    "title": "Comments and Code Style",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 184,
+    "title": "Operators",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 185,
+    "title": "Type Conversion",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 186,
+    "title": "Strings",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 187,
+    "title": "String Methods",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 188,
+    "title": "Formatting Strings",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 189,
+    "title": "Numbers",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 190,
+    "title": "Booleans",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 191,
+    "title": "if Statements",
+    "module": "Control Flow"
+  },
+  {
+    "day": 192,
+    "title": "if-else",
+    "module": "Control Flow"
+  },
+  {
+    "day": 193,
+    "title": "Nested if",
+    "module": "Control Flow"
+  },
+  {
+    "day": 194,
+    "title": "Match Case",
+    "module": "Control Flow"
+  },
+  {
+    "day": 195,
+    "title": "For Loop",
+    "module": "Control Flow"
+  },
+  {
+    "day": 196,
+    "title": "While Loop",
+    "module": "Control Flow"
+  },
+  {
+    "day": 197,
+    "title": "Break and Continue",
+    "module": "Control Flow"
+  },
+  {
+    "day": 198,
+    "title": "Range Function",
+    "module": "Control Flow"
+  },
+  {
+    "day": 199,
+    "title": "Pass Statement",
+    "module": "Control Flow"
+  },
+  {
+    "day": 200,
+    "title": "Mini Project",
+    "module": "Control Flow"
+  },
+  {
+    "day": 201,
+    "title": "Functions",
+    "module": "Functions"
+  },
+  {
+    "day": 202,
+    "title": "Arguments",
+    "module": "Functions"
+  },
+  {
+    "day": 203,
+    "title": "Keyword Arguments",
+    "module": "Functions"
+  },
+  {
+    "day": 204,
+    "title": "Return Values",
+    "module": "Functions"
+  },
+  {
+    "day": 205,
+    "title": "Lambda Functions",
+    "module": "Functions"
+  },
+  {
+    "day": 206,
+    "title": "Recursion",
+    "module": "Functions"
+  },
+  {
+    "day": 207,
+    "title": "Variable Scope",
+    "module": "Functions"
+  },
+  {
+    "day": 208,
+    "title": "Docstrings",
+    "module": "Functions"
+  },
+  {
+    "day": 209,
+    "title": "Modules",
+    "module": "Functions"
+  },
+  {
+    "day": 210,
+    "title": "Packages",
+    "module": "Functions"
+  },
+  {
+    "day": 211,
+    "title": "Lists",
+    "module": "Collections"
+  },
+  {
+    "day": 212,
+    "title": "List Methods",
+    "module": "Collections"
+  },
+  {
+    "day": 213,
+    "title": "Tuples",
+    "module": "Collections"
+  },
+  {
+    "day": 214,
+    "title": "Sets",
+    "module": "Collections"
+  },
+  {
+    "day": 215,
+    "title": "Dictionaries",
+    "module": "Collections"
+  },
+  {
+    "day": 216,
+    "title": "Dictionary Methods",
+    "module": "Collections"
+  },
+  {
+    "day": 217,
+    "title": "Comprehensions",
+    "module": "Collections"
+  },
+  {
+    "day": 218,
+    "title": "Nested Collections",
+    "module": "Collections"
+  },
+  {
+    "day": 219,
+    "title": "Sorting",
+    "module": "Collections"
+  },
+  {
+    "day": 220,
+    "title": "Searching",
+    "module": "Collections"
+  },
+  {
+    "day": 221,
+    "title": "Reading Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 222,
+    "title": "Writing Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 223,
+    "title": "CSV Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 224,
+    "title": "JSON Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 225,
+    "title": "Pathlib",
+    "module": "File Handling"
+  },
+  {
+    "day": 226,
+    "title": "Exception Handling",
+    "module": "File Handling"
+  },
+  {
+    "day": 227,
+    "title": "Custom Exceptions",
+    "module": "File Handling"
+  },
+  {
+    "day": 228,
+    "title": "Logging",
+    "module": "File Handling"
+  },
+  {
+    "day": 229,
+    "title": "Configuration Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 230,
+    "title": "Mini Project",
+    "module": "File Handling"
+  },
+  {
+    "day": 231,
+    "title": "Classes",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 232,
+    "title": "Objects",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 233,
+    "title": "Constructors",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 234,
+    "title": "Methods",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 235,
+    "title": "Inheritance",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 236,
+    "title": "Polymorphism",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 237,
+    "title": "Encapsulation",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 238,
+    "title": "Abstraction",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 239,
+    "title": "Magic Methods",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 240,
+    "title": "Dataclasses",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 241,
+    "title": "Decorators",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 242,
+    "title": "Generators",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 243,
+    "title": "Iterators",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 244,
+    "title": "Context Managers",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 245,
+    "title": "Virtual Environments",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 246,
+    "title": "Typing",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 247,
+    "title": "Enums",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 248,
+    "title": "Collections Module",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 249,
+    "title": "Functools",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 250,
+    "title": "itertools",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 251,
+    "title": "datetime",
+    "module": "Standard Library"
+  },
+  {
+    "day": 252,
+    "title": "math",
+    "module": "Standard Library"
+  },
+  {
+    "day": 253,
+    "title": "random",
+    "module": "Standard Library"
+  },
+  {
+    "day": 254,
+    "title": "os",
+    "module": "Standard Library"
+  },
+  {
+    "day": 255,
+    "title": "sys",
+    "module": "Standard Library"
+  },
+  {
+    "day": 256,
+    "title": "subprocess",
+    "module": "Standard Library"
+  },
+  {
+    "day": 257,
+    "title": "shutil",
+    "module": "Standard Library"
+  },
+  {
+    "day": 258,
+    "title": "argparse",
+    "module": "Standard Library"
+  },
+  {
+    "day": 259,
+    "title": "sqlite3",
+    "module": "Standard Library"
+  },
+  {
+    "day": 260,
+    "title": "urllib",
+    "module": "Standard Library"
+  },
+  {
+    "day": 261,
+    "title": "Calculator",
+    "module": "Projects"
+  },
+  {
+    "day": 262,
+    "title": "Password Generator",
+    "module": "Projects"
+  },
+  {
+    "day": 263,
+    "title": "Number Guessing Game",
+    "module": "Projects"
+  },
+  {
+    "day": 264,
+    "title": "To-Do App",
+    "module": "Projects"
+  },
+  {
+    "day": 265,
+    "title": "Expense Tracker",
+    "module": "Projects"
+  },
+  {
+    "day": 266,
+    "title": "Weather App",
+    "module": "Projects"
+  },
+  {
+    "day": 267,
+    "title": "Web Scraper",
+    "module": "Projects"
+  },
+  {
+    "day": 268,
+    "title": "REST API Client",
+    "module": "Projects"
+  },
+  {
+    "day": 269,
+    "title": "Portfolio Project",
+    "module": "Projects"
+  },
+  {
+    "day": 270,
+    "title": "Final Project",
+    "module": "Projects"
+  },
+  {
+    "day": 271,
+    "title": "Variables and Data Types",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 272,
+    "title": "Input and Output",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 273,
+    "title": "Comments and Code Style",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 274,
+    "title": "Operators",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 275,
+    "title": "Type Conversion",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 276,
+    "title": "Strings",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 277,
+    "title": "String Methods",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 278,
+    "title": "Formatting Strings",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 279,
+    "title": "Numbers",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 280,
+    "title": "Booleans",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 281,
+    "title": "if Statements",
+    "module": "Control Flow"
+  },
+  {
+    "day": 282,
+    "title": "if-else",
+    "module": "Control Flow"
+  },
+  {
+    "day": 283,
+    "title": "Nested if",
+    "module": "Control Flow"
+  },
+  {
+    "day": 284,
+    "title": "Match Case",
+    "module": "Control Flow"
+  },
+  {
+    "day": 285,
+    "title": "For Loop",
+    "module": "Control Flow"
+  },
+  {
+    "day": 286,
+    "title": "While Loop",
+    "module": "Control Flow"
+  },
+  {
+    "day": 287,
+    "title": "Break and Continue",
+    "module": "Control Flow"
+  },
+  {
+    "day": 288,
+    "title": "Range Function",
+    "module": "Control Flow"
+  },
+  {
+    "day": 289,
+    "title": "Pass Statement",
+    "module": "Control Flow"
+  },
+  {
+    "day": 290,
+    "title": "Mini Project",
+    "module": "Control Flow"
+  },
+  {
+    "day": 291,
+    "title": "Functions",
+    "module": "Functions"
+  },
+  {
+    "day": 292,
+    "title": "Arguments",
+    "module": "Functions"
+  },
+  {
+    "day": 293,
+    "title": "Keyword Arguments",
+    "module": "Functions"
+  },
+  {
+    "day": 294,
+    "title": "Return Values",
+    "module": "Functions"
+  },
+  {
+    "day": 295,
+    "title": "Lambda Functions",
+    "module": "Functions"
+  },
+  {
+    "day": 296,
+    "title": "Recursion",
+    "module": "Functions"
+  },
+  {
+    "day": 297,
+    "title": "Variable Scope",
+    "module": "Functions"
+  },
+  {
+    "day": 298,
+    "title": "Docstrings",
+    "module": "Functions"
+  },
+  {
+    "day": 299,
+    "title": "Modules",
+    "module": "Functions"
+  },
+  {
+    "day": 300,
+    "title": "Packages",
+    "module": "Functions"
+  },
+  {
+    "day": 301,
+    "title": "Lists",
+    "module": "Collections"
+  },
+  {
+    "day": 302,
+    "title": "List Methods",
+    "module": "Collections"
+  },
+  {
+    "day": 303,
+    "title": "Tuples",
+    "module": "Collections"
+  },
+  {
+    "day": 304,
+    "title": "Sets",
+    "module": "Collections"
+  },
+  {
+    "day": 305,
+    "title": "Dictionaries",
+    "module": "Collections"
+  },
+  {
+    "day": 306,
+    "title": "Dictionary Methods",
+    "module": "Collections"
+  },
+  {
+    "day": 307,
+    "title": "Comprehensions",
+    "module": "Collections"
+  },
+  {
+    "day": 308,
+    "title": "Nested Collections",
+    "module": "Collections"
+  },
+  {
+    "day": 309,
+    "title": "Sorting",
+    "module": "Collections"
+  },
+  {
+    "day": 310,
+    "title": "Searching",
+    "module": "Collections"
+  },
+  {
+    "day": 311,
+    "title": "Reading Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 312,
+    "title": "Writing Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 313,
+    "title": "CSV Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 314,
+    "title": "JSON Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 315,
+    "title": "Pathlib",
+    "module": "File Handling"
+  },
+  {
+    "day": 316,
+    "title": "Exception Handling",
+    "module": "File Handling"
+  },
+  {
+    "day": 317,
+    "title": "Custom Exceptions",
+    "module": "File Handling"
+  },
+  {
+    "day": 318,
+    "title": "Logging",
+    "module": "File Handling"
+  },
+  {
+    "day": 319,
+    "title": "Configuration Files",
+    "module": "File Handling"
+  },
+  {
+    "day": 320,
+    "title": "Mini Project",
+    "module": "File Handling"
+  },
+  {
+    "day": 321,
+    "title": "Classes",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 322,
+    "title": "Objects",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 323,
+    "title": "Constructors",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 324,
+    "title": "Methods",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 325,
+    "title": "Inheritance",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 326,
+    "title": "Polymorphism",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 327,
+    "title": "Encapsulation",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 328,
+    "title": "Abstraction",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 329,
+    "title": "Magic Methods",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 330,
+    "title": "Dataclasses",
+    "module": "Object Oriented Programming"
+  },
+  {
+    "day": 331,
+    "title": "Decorators",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 332,
+    "title": "Generators",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 333,
+    "title": "Iterators",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 334,
+    "title": "Context Managers",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 335,
+    "title": "Virtual Environments",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 336,
+    "title": "Typing",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 337,
+    "title": "Enums",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 338,
+    "title": "Collections Module",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 339,
+    "title": "Functools",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 340,
+    "title": "itertools",
+    "module": "Advanced Python"
+  },
+  {
+    "day": 341,
+    "title": "datetime",
+    "module": "Standard Library"
+  },
+  {
+    "day": 342,
+    "title": "math",
+    "module": "Standard Library"
+  },
+  {
+    "day": 343,
+    "title": "random",
+    "module": "Standard Library"
+  },
+  {
+    "day": 344,
+    "title": "os",
+    "module": "Standard Library"
+  },
+  {
+    "day": 345,
+    "title": "sys",
+    "module": "Standard Library"
+  },
+  {
+    "day": 346,
+    "title": "subprocess",
+    "module": "Standard Library"
+  },
+  {
+    "day": 347,
+    "title": "shutil",
+    "module": "Standard Library"
+  },
+  {
+    "day": 348,
+    "title": "argparse",
+    "module": "Standard Library"
+  },
+  {
+    "day": 349,
+    "title": "sqlite3",
+    "module": "Standard Library"
+  },
+  {
+    "day": 350,
+    "title": "urllib",
+    "module": "Standard Library"
+  },
+  {
+    "day": 351,
+    "title": "Calculator",
+    "module": "Projects"
+  },
+  {
+    "day": 352,
+    "title": "Password Generator",
+    "module": "Projects"
+  },
+  {
+    "day": 353,
+    "title": "Number Guessing Game",
+    "module": "Projects"
+  },
+  {
+    "day": 354,
+    "title": "To-Do App",
+    "module": "Projects"
+  },
+  {
+    "day": 355,
+    "title": "Expense Tracker",
+    "module": "Projects"
+  },
+  {
+    "day": 356,
+    "title": "Weather App",
+    "module": "Projects"
+  },
+  {
+    "day": 357,
+    "title": "Web Scraper",
+    "module": "Projects"
+  },
+  {
+    "day": 358,
+    "title": "REST API Client",
+    "module": "Projects"
+  },
+  {
+    "day": 359,
+    "title": "Portfolio Project",
+    "module": "Projects"
+  },
+  {
+    "day": 360,
+    "title": "Final Project",
+    "module": "Projects"
+  },
+  {
+    "day": 361,
+    "title": "Variables and Data Types",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 362,
+    "title": "Input and Output",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 363,
+    "title": "Comments and Code Style",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 364,
+    "title": "Operators",
+    "module": "Python Fundamentals"
+  },
+  {
+    "day": 365,
+    "title": "Type Conversion",
+    "module": "Python Fundamentals"
   }
 ]
