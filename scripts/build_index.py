@@ -8,7 +8,10 @@ listing every released lesson with links.
 """
 
 from __future__ import annotations
-
+from scripts.progress import load_progress
+from scripts.build_index import save_index
+from scripts.update_readme import save_readme
+from scripts.utils import ensure_directory
 import json
 from pathlib import Path
 
