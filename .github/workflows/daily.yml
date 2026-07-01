@@ -48,8 +48,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "sanketpunwatkar02"
+          git config user.email "sanketpunwatkar02@gmail.com"
 
           git add README.md progress.json published/
 
