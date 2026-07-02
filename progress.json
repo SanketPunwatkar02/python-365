@@ -1,6 +1,6 @@
 {
-    "current_day": 1,
+    "current_day": 2,
     "total_days": 365,
-    "current_topic": "Variables and Data Types",
-    "last_release": "2026-06-29"
+    "current_topic": "Input and Output",
+    "last_release": "2026-07-02"
 }
