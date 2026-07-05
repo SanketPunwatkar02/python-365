@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 4 / 365**
+**Day 5 / 365**
 
 ```text
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 1.1%
+**Completion:** 1.37%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Operators
+Type Conversion
 
 ## Last Release
 
-2026-07-04
+2026-07-05
 
 ## Overview
 
