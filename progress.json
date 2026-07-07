@@ -1,6 +1,6 @@
 {
-    "current_day": 6,
+    "current_day": 7,
     "total_days": 365,
-    "current_topic": "Strings",
-    "last_release": "2026-07-06"
+    "current_topic": "String Methods",
+    "last_release": "2026-07-07"
 }
