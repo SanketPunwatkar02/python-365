@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 11 / 365**
+**Day 12 / 365**
 
 ```text
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 3.01%
+**Completion:** 3.29%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-if Statements
+if-else
 
 ## Last Release
 
-2026-07-11
+2026-07-12
 
 ## Overview
 
