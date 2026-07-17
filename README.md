@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 16 / 365**
+**Day 17 / 365**
 
 ```text
 █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 4.38%
+**Completion:** 4.66%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-While Loop
+Break and Continue
 
 ## Last Release
 
-2026-07-16
+2026-07-17
 
 ## Overview
 
