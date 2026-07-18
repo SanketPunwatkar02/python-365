@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 17 / 365**
+**Day 18 / 365**
 
 ```text
 █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 4.66%
+**Completion:** 4.93%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Break and Continue
+Range Function
 
 ## Last Release
 
-2026-07-17
+2026-07-18
 
 ## Overview
 
