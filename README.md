@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 22 / 365**
+**Day 23 / 365**
 
 ```text
 █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 6.03%
+**Completion:** 6.3%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Arguments
+Keyword Arguments
 
 ## Last Release
 
-2026-07-22
+2026-07-23
 
 ## Overview
 
