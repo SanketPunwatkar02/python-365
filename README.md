@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 25 / 365**
+**Day 26 / 365**
 
 ```text
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 6.85%
+**Completion:** 7.12%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Lambda Functions
+Recursion
 
 ## Last Release
 
-2026-07-25
+2026-07-26
 
 ## Overview
 
