@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 27 / 365**
+**Day 28 / 365**
 
 ```text
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 7.4%
+**Completion:** 7.67%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Variable Scope
+Docstrings
 
 ## Last Release
 
-2026-07-27
+2026-07-28
 
 ## Overview
 
