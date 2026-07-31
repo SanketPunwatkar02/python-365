@@ -4,25 +4,25 @@
 
 ## Progress
 
-**Day 30 / 365**
+**Day 31 / 365**
 
 ```text
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 8.22%
+**Completion:** 8.49%
 
 ## Current Module
 
-🐍 Python Fundamentals
+🔀 Control Flow
 
 ## Current Topic
 
-Packages
+Lists
 
 ## Last Release
 
-2026-07-30
+2026-07-31
 
 ## Overview
 
