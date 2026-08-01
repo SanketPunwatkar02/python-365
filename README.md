@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 31 / 365**
+**Day 32 / 365**
 
 ```text
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 8.49%
+**Completion:** 8.77%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Lists
+List Methods
 
 ## Last Release
 
-2026-07-31
+2026-08-01
 
 ## Overview
 
