@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 37 / 365**
+**Day 38 / 365**
 
 ```text
 ███░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 10.14%
+**Completion:** 10.41%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Comprehensions
+Nested Collections
 
 ## Last Release
 
-2026-08-06
+2026-08-07
 
 ## Overview
 
