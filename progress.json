@@ -1,6 +1,6 @@
 {
-    "current_day": 42,
+    "current_day": 43,
     "total_days": 365,
-    "current_topic": "Writing Files",
-    "last_release": "2026-08-11"
+    "current_topic": "CSV Files",
+    "last_release": "2026-08-12"
 }
