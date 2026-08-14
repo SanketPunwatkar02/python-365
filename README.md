@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 44 / 365**
+**Day 45 / 365**
 
 ```text
 ███░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 12.05%
+**Completion:** 12.33%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-JSON Files
+Pathlib
 
 ## Last Release
 
-2026-08-13
+2026-08-14
 
 ## Overview
 
