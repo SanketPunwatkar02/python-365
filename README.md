@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 45 / 365**
+**Day 46 / 365**
 
 ```text
 ███░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 12.33%
+**Completion:** 12.6%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Pathlib
+Exception Handling
 
 ## Last Release
 
-2026-08-14
+2026-08-15
 
 ## Overview
 
