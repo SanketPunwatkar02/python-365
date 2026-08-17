@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 47 / 365**
+**Day 48 / 365**
 
 ```text
 ███░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 12.88%
+**Completion:** 13.15%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Custom Exceptions
+Logging
 
 ## Last Release
 
-2026-08-16
+2026-08-17
 
 ## Overview
 
