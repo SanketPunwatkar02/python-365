@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 53 / 365**
+**Day 54 / 365**
 
 ```text
 ████░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 14.52%
+**Completion:** 14.79%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Constructors
+Methods
 
 ## Last Release
 
-2026-08-22
+2026-08-23
 
 ## Overview
 
