@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 54 / 365**
+**Day 55 / 365**
 
 ```text
 ████░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 14.79%
+**Completion:** 15.07%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Methods
+Inheritance
 
 ## Last Release
 
-2026-08-23
+2026-08-24
 
 ## Overview
 
