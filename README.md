@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 57 / 365**
+**Day 58 / 365**
 
 ```text
 ████░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 15.62%
+**Completion:** 15.89%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Encapsulation
+Abstraction
 
 ## Last Release
 
-2026-08-26
+2026-08-27
 
 ## Overview
 
