@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 58 / 365**
+**Day 59 / 365**
 
 ```text
 ████░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 15.89%
+**Completion:** 16.16%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Abstraction
+Magic Methods
 
 ## Last Release
 
-2026-08-27
+2026-08-28
 
 ## Overview
 
