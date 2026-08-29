@@ -1,6 +1,6 @@
 {
-    "current_day": 59,
+    "current_day": 60,
     "total_days": 365,
-    "current_topic": "Magic Methods",
-    "last_release": "2026-08-28"
+    "current_topic": "Dataclasses",
+    "last_release": "2026-08-29"
 }
