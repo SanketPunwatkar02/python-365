@@ -4,25 +4,25 @@
 
 ## Progress
 
-**Day 60 / 365**
+**Day 61 / 365**
 
 ```text
-████░░░░░░░░░░░░░░░░░░░░░░░░░░
+█████░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 16.44%
+**Completion:** 16.71%
 
 ## Current Module
 
-🔀 Control Flow
+⚙️ Functions
 
 ## Current Topic
 
-Dataclasses
+Decorators
 
 ## Last Release
 
-2026-08-29
+2026-08-30
 
 ## Overview
 
