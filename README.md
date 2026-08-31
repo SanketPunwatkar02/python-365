@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 61 / 365**
+**Day 62 / 365**
 
 ```text
 █████░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 16.71%
+**Completion:** 16.99%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Decorators
+Generators
 
 ## Last Release
 
-2026-08-30
+2026-08-31
 
 ## Overview
 
