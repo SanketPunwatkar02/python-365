@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 62 / 365**
+**Day 63 / 365**
 
 ```text
 █████░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 16.99%
+**Completion:** 17.26%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Generators
+Iterators
 
 ## Last Release
 
-2026-08-31
+2026-09-01
 
 ## Overview
 
