@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 63 / 365**
+**Day 64 / 365**
 
 ```text
 █████░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 17.26%
+**Completion:** 17.53%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Iterators
+Context Managers
 
 ## Last Release
 
-2026-09-01
+2026-09-02
 
 ## Overview
 

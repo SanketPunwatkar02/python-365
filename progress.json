@@ -1,6 +1,6 @@
 {
-    "current_day": 63,
+    "current_day": 64,
     "total_days": 365,
-    "current_topic": "Iterators",
-    "last_release": "2026-09-01"
+    "current_topic": "Context Managers",
+    "last_release": "2026-09-02"
 }
