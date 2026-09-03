@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 64 / 365**
+**Day 65 / 365**
 
 ```text
 █████░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 17.53%
+**Completion:** 17.81%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Context Managers
+Virtual Environments
 
 ## Last Release
 
-2026-09-02
+2026-09-03
 
 ## Overview
 
