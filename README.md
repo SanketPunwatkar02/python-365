@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 65 / 365**
+**Day 66 / 365**
 
 ```text
 █████░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 17.81%
+**Completion:** 18.08%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Virtual Environments
+Typing
 
 ## Last Release
 
-2026-09-03
+2026-09-04
 
 ## Overview
 
