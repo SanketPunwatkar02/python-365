@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 66 / 365**
+**Day 67 / 365**
 
 ```text
 █████░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 18.08%
+**Completion:** 18.36%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Typing
+Enums
 
 ## Last Release
 
-2026-09-04
+2026-09-05
 
 ## Overview
 
