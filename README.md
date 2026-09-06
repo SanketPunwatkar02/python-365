@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 67 / 365**
+**Day 68 / 365**
 
 ```text
 █████░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 18.36%
+**Completion:** 18.63%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Enums
+Collections Module
 
 ## Last Release
 
-2026-09-05
+2026-09-06
 
 ## Overview
 
