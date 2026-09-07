@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 68 / 365**
+**Day 69 / 365**
 
 ```text
 █████░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 18.63%
+**Completion:** 18.9%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Collections Module
+Functools
 
 ## Last Release
 
-2026-09-06
+2026-09-07
 
 ## Overview
 
