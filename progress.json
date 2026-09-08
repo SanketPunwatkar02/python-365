@@ -1,6 +1,6 @@
 {
-    "current_day": 69,
+    "current_day": 70,
     "total_days": 365,
-    "current_topic": "Functools",
-    "last_release": "2026-09-07"
+    "current_topic": "itertools",
+    "last_release": "2026-09-08"
 }
