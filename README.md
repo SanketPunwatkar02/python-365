@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 74 / 365**
+**Day 75 / 365**
 
 ```text
 ██████░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 20.27%
+**Completion:** 20.55%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-os
+sys
 
 ## Last Release
 
-2026-09-12
+2026-09-13
 
 ## Overview
 
