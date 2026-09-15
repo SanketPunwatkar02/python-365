@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 76 / 365**
+**Day 77 / 365**
 
 ```text
 ██████░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 20.82%
+**Completion:** 21.1%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-subprocess
+shutil
 
 ## Last Release
 
-2026-09-14
+2026-09-15
 
 ## Overview
 
