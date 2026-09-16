@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 77 / 365**
+**Day 78 / 365**
 
 ```text
 ██████░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 21.1%
+**Completion:** 21.37%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-shutil
+argparse
 
 ## Last Release
 
-2026-09-15
+2026-09-16
 
 ## Overview
 
