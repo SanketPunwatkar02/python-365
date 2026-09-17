@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 78 / 365**
+**Day 79 / 365**
 
 ```text
 ██████░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 21.37%
+**Completion:** 21.64%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-argparse
+sqlite3
 
 ## Last Release
 
-2026-09-16
+2026-09-17
 
 ## Overview
 
