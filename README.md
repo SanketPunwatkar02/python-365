@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 83 / 365**
+**Day 84 / 365**
 
 ```text
 ██████░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 22.74%
+**Completion:** 23.01%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Number Guessing Game
+To-Do App
 
 ## Last Release
 
-2026-09-21
+2026-09-22
 
 ## Overview
 
