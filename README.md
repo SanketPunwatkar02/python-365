@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 84 / 365**
+**Day 85 / 365**
 
 ```text
 ██████░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 23.01%
+**Completion:** 23.29%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-To-Do App
+Expense Tracker
 
 ## Last Release
 
-2026-09-22
+2026-09-23
 
 ## Overview
 
