@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 86 / 365**
+**Day 87 / 365**
 
 ```text
 ███████░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 23.56%
+**Completion:** 23.84%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Weather App
+Web Scraper
 
 ## Last Release
 
-2026-09-24
+2026-09-25
 
 ## Overview
 
