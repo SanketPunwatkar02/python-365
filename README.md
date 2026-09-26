@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 87 / 365**
+**Day 88 / 365**
 
 ```text
 ███████░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 23.84%
+**Completion:** 24.11%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Web Scraper
+REST API Client
 
 ## Last Release
 
-2026-09-25
+2026-09-26
 
 ## Overview
 
