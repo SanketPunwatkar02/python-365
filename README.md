@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 88 / 365**
+**Day 89 / 365**
 
 ```text
 ███████░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 24.11%
+**Completion:** 24.38%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-REST API Client
+Portfolio Project
 
 ## Last Release
 
-2026-09-26
+2026-09-27
 
 ## Overview
 
