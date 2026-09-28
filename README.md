@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 89 / 365**
+**Day 90 / 365**
 
 ```text
 ███████░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 24.38%
+**Completion:** 24.66%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Portfolio Project
+Final Project
 
 ## Last Release
 
-2026-09-27
+2026-09-28
 
 ## Overview
 
