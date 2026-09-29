@@ -4,25 +4,25 @@
 
 ## Progress
 
-**Day 90 / 365**
+**Day 91 / 365**
 
 ```text
 ███████░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 24.66%
+**Completion:** 24.93%
 
 ## Current Module
 
-⚙️ Functions
+📦 Data Structures
 
 ## Current Topic
 
-Final Project
+Variables and Data Types
 
 ## Last Release
 
-2026-09-28
+2026-09-29
 
 ## Overview
 
