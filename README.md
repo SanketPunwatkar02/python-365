@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 91 / 365**
+**Day 92 / 365**
 
 ```text
 ███████░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 24.93%
+**Completion:** 25.21%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Variables and Data Types
+Input and Output
 
 ## Last Release
 
-2026-09-29
+2026-09-30
 
 ## Overview
 
