@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 92 / 365**
+**Day 93 / 365**
 
 ```text
 ███████░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 25.21%
+**Completion:** 25.48%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Input and Output
+Comments and Code Style
 
 ## Last Release
 
-2026-09-30
+2026-10-01
 
 ## Overview
 
