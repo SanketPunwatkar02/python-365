@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 95 / 365**
+**Day 96 / 365**
 
 ```text
 ███████░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 26.03%
+**Completion:** 26.3%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Type Conversion
+Strings
 
 ## Last Release
 
-2026-10-03
+2026-10-04
 
 ## Overview
 
