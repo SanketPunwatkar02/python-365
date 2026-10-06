@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 97 / 365**
+**Day 98 / 365**
 
 ```text
-███████░░░░░░░░░░░░░░░░░░░░░░░
+████████░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 26.58%
+**Completion:** 26.85%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-String Methods
+Formatting Strings
 
 ## Last Release
 
-2026-10-05
+2026-10-06
 
 ## Overview
 
