@@ -1,6 +1,6 @@
 {
-    "current_day": 99,
+    "current_day": 100,
     "total_days": 365,
-    "current_topic": "Numbers",
-    "last_release": "2026-10-07"
+    "current_topic": "Booleans",
+    "last_release": "2026-10-08"
 }
