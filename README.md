@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 100 / 365**
+**Day 101 / 365**
 
 ```text
 ████████░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 27.4%
+**Completion:** 27.67%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Booleans
+if Statements
 
 ## Last Release
 
-2026-10-08
+2026-10-09
 
 ## Overview
 
