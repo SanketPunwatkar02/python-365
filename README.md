@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 104 / 365**
+**Day 105 / 365**
 
 ```text
 ████████░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 28.49%
+**Completion:** 28.77%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Match Case
+For Loop
 
 ## Last Release
 
-2026-10-12
+2026-10-13
 
 ## Overview
 
