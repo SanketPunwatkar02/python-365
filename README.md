@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 108 / 365**
+**Day 109 / 365**
 
 ```text
 ████████░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 29.59%
+**Completion:** 29.86%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Range Function
+Pass Statement
 
 ## Last Release
 
-2026-10-16
+2026-10-17
 
 ## Overview
 
