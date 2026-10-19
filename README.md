@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 110 / 365**
+**Day 111 / 365**
 
 ```text
 █████████░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 30.14%
+**Completion:** 30.41%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Mini Project
+Functions
 
 ## Last Release
 
-2026-10-18
+2026-10-19
 
 ## Overview
 
