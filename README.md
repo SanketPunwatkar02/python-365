@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 111 / 365**
+**Day 112 / 365**
 
 ```text
 █████████░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 30.41%
+**Completion:** 30.68%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Functions
+Arguments
 
 ## Last Release
 
-2026-10-19
+2026-10-20
 
 ## Overview
 
