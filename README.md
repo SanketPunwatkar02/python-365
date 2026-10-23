@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 114 / 365**
+**Day 115 / 365**
 
 ```text
 █████████░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 31.23%
+**Completion:** 31.51%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Return Values
+Lambda Functions
 
 ## Last Release
 
-2026-10-22
+2026-10-23
 
 ## Overview
 
