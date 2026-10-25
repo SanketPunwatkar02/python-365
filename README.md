@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 116 / 365**
+**Day 117 / 365**
 
 ```text
 █████████░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 31.78%
+**Completion:** 32.05%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Recursion
+Variable Scope
 
 ## Last Release
 
-2026-10-24
+2026-10-25
 
 ## Overview
 
