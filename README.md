@@ -4,25 +4,25 @@
 
 ## Progress
 
-**Day 120 / 365**
+**Day 121 / 365**
 
 ```text
 █████████░░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 32.88%
+**Completion:** 33.15%
 
 ## Current Module
 
-📦 Data Structures
+📁 File Handling
 
 ## Current Topic
 
-Packages
+Lists
 
 ## Last Release
 
-2026-10-28
+2026-10-29
 
 ## Overview
 
