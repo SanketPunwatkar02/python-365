@@ -1,6 +1,6 @@
 {
-    "current_day": 123,
+    "current_day": 124,
     "total_days": 365,
-    "current_topic": "Tuples",
-    "last_release": "2026-10-31"
+    "current_topic": "Sets",
+    "last_release": "2026-11-01"
 }
