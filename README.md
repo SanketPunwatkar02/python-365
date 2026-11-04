@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 126 / 365**
+**Day 127 / 365**
 
 ```text
 ██████████░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 34.52%
+**Completion:** 34.79%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Dictionary Methods
+Comprehensions
 
 ## Last Release
 
-2026-11-03
+2026-11-04
 
 ## Overview
 
