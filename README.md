@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 128 / 365**
+**Day 129 / 365**
 
 ```text
 ██████████░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 35.07%
+**Completion:** 35.34%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Nested Collections
+Sorting
 
 ## Last Release
 
-2026-11-05
+2026-11-06
 
 ## Overview
 
