@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 132 / 365**
+**Day 133 / 365**
 
 ```text
 ██████████░░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 36.16%
+**Completion:** 36.44%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Writing Files
+CSV Files
 
 ## Last Release
 
-2026-11-09
+2026-11-10
 
 ## Overview
 
