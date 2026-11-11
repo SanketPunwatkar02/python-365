@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 133 / 365**
+**Day 134 / 365**
 
 ```text
-██████████░░░░░░░░░░░░░░░░░░░░
+███████████░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 36.44%
+**Completion:** 36.71%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-CSV Files
+JSON Files
 
 ## Last Release
 
-2026-11-10
+2026-11-11
 
 ## Overview
 
