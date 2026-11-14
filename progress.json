@@ -1,6 +1,6 @@
 {
-    "current_day": 136,
+    "current_day": 137,
     "total_days": 365,
-    "current_topic": "Exception Handling",
-    "last_release": "2026-11-13"
+    "current_topic": "Custom Exceptions",
+    "last_release": "2026-11-14"
 }
