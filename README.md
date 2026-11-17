@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 139 / 365**
+**Day 140 / 365**
 
 ```text
 ███████████░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 38.08%
+**Completion:** 38.36%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Configuration Files
+Mini Project
 
 ## Last Release
 
-2026-11-16
+2026-11-17
 
 ## Overview
 
