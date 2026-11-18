@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 140 / 365**
+**Day 141 / 365**
 
 ```text
 ███████████░░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 38.36%
+**Completion:** 38.63%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Mini Project
+Classes
 
 ## Last Release
 
-2026-11-17
+2026-11-18
 
 ## Overview
 
