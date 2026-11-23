@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 145 / 365**
+**Day 146 / 365**
 
 ```text
-███████████░░░░░░░░░░░░░░░░░░░
+████████████░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 39.73%
+**Completion:** 40.0%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Inheritance
+Polymorphism
 
 ## Last Release
 
-2026-11-22
+2026-11-23
 
 ## Overview
 
