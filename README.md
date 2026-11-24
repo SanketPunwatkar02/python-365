@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 146 / 365**
+**Day 147 / 365**
 
 ```text
 ████████████░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 40.0%
+**Completion:** 40.27%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Polymorphism
+Encapsulation
 
 ## Last Release
 
-2026-11-23
+2026-11-24
 
 ## Overview
 
