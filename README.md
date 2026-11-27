@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Day 149 / 365**
+**Day 150 / 365**
 
 ```text
 ████████████░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 40.82%
+**Completion:** 41.1%
 
 ## Current Module
 
@@ -18,11 +18,11 @@
 
 ## Current Topic
 
-Magic Methods
+Dataclasses
 
 ## Last Release
 
-2026-11-26
+2026-11-27
 
 ## Overview
 
