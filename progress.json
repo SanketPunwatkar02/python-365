@@ -1,6 +1,6 @@
 {
-    "current_day": 150,
+    "current_day": 151,
     "total_days": 365,
-    "current_topic": "Dataclasses",
-    "last_release": "2026-11-27"
+    "current_topic": "Decorators",
+    "last_release": "2026-11-28"
 }

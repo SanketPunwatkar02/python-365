@@ -4,25 +4,25 @@
 
 ## Progress
 
-**Day 150 / 365**
+**Day 151 / 365**
 
 ```text
 ████████████░░░░░░░░░░░░░░░░░░
 ```
 
-**Completion:** 41.1%
+**Completion:** 41.37%
 
 ## Current Module
 
-📁 File Handling
+🏛️ Object-Oriented Programming
 
 ## Current Topic
 
-Dataclasses
+Decorators
 
 ## Last Release
 
-2026-11-27
+2026-11-28
 
 ## Overview
 
